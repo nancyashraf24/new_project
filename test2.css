@@ -1,0 +1,13 @@
+.task{
+    background-color: rgb(230, 150, 123);
+    height: 100vh;
+}
+
+
+
+img{
+    width: 100%;
+    position: relative;
+    top: 30%;
+}
+
